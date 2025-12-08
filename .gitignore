@@ -1,0 +1,7 @@
+*.pyc
+*.sh
+build/
+*.md
+LICENSE
+.DS_Store
+
